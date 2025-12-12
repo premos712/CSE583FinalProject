@@ -1,0 +1,12 @@
+function,path_id,count
+main,2,1
+init_array,0,2639999
+init_array,1,2200
+init_array,2,2
+kernel_gramschmidt,0,1440478201
+kernel_gramschmidt,1,1441199
+kernel_gramschmidt,3,1199
+kernel_gramschmidt,4,1
+kernel_gramschmidt,6,1
+polybench_alloc_data,0,3
+xmalloc,1,3

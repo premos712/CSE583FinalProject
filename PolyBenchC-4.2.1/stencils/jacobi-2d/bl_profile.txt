@@ -1,0 +1,11 @@
+function,path_id,count
+main,2,1
+init_array,0,1690000
+init_array,1,1300
+init_array,2,1
+kernel_jacobi_2d,0,1684803500
+kernel_jacobi_2d,1,1298000
+kernel_jacobi_2d,2,1000
+kernel_jacobi_2d,5,1
+polybench_alloc_data,0,2
+xmalloc,1,2

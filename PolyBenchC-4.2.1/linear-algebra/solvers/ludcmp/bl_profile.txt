@@ -1,0 +1,13 @@
+function,path_id,count
+main,2,1
+init_array,0,8011999997
+init_array,1,4007999
+init_array,2,2003
+init_array,3,2
+kernel_ludcmp,0,2668663001
+kernel_ludcmp,1,4003997
+kernel_ludcmp,2,4000
+kernel_ludcmp,3,2
+kernel_ludcmp,6,1
+polybench_alloc_data,0,5
+xmalloc,1,5

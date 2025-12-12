@@ -1,0 +1,11 @@
+function,path_id,count
+main,2,1
+init_array,0,4000000
+init_array,1,2000
+init_array,2,1
+kernel_seidel_2d,0,1996002000
+kernel_seidel_2d,1,999000
+kernel_seidel_2d,2,500
+kernel_seidel_2d,3,1
+polybench_alloc_data,0,1
+xmalloc,1,1

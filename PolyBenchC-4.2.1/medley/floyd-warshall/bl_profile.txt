@@ -1,0 +1,15 @@
+function,path_id,count
+main,2,1
+init_array,0,563907
+init_array,1,5639166
+init_array,2,1033851
+init_array,3,603076
+init_array,4,2800
+init_array,5,1
+kernel_floyd_warshall,0,19330428860
+kernel_floyd_warshall,1,2621571140
+kernel_floyd_warshall,2,7840000
+kernel_floyd_warshall,3,2800
+kernel_floyd_warshall,4,1
+polybench_alloc_data,0,1
+xmalloc,1,1

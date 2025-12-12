@@ -1,0 +1,9 @@
+function,path_id,count
+main,2,1
+init_array,0,2000
+init_array,1,1
+kernel_durbin,0,5993002
+kernel_durbin,1,5997
+kernel_durbin,4,1
+polybench_alloc_data,0,2
+xmalloc,1,2

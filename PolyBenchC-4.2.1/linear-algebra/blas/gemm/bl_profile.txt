@@ -1,0 +1,11 @@
+function,path_id,count
+main,2,1
+init_array,0,3619998
+init_array,1,3200
+init_array,2,3
+kernel_gemm,0,1321099000
+kernel_gemm,1,1201000
+kernel_gemm,2,1000
+kernel_gemm,4,1
+polybench_alloc_data,0,3
+xmalloc,1,3

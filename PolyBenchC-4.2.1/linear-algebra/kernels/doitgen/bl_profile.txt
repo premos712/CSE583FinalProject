@@ -1,0 +1,13 @@
+function,path_id,count
+kernel_doitgen,0,540939000
+kernel_doitgen,1,3381000
+kernel_doitgen,2,21000
+kernel_doitgen,4,150
+kernel_doitgen,5,1
+main,2,1
+init_array,0,3385599
+init_array,1,21160
+init_array,2,151
+init_array,3,1
+polybench_alloc_data,0,3
+xmalloc,1,3

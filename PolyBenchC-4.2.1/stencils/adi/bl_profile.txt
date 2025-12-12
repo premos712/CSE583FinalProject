@@ -1,0 +1,11 @@
+function,path_id,count
+main,2,1
+init_array,0,1000000
+init_array,1,1000
+init_array,2,1
+kernel_adi,0,1991009500
+kernel_adi,1,1996000
+kernel_adi,3,1000
+kernel_adi,7,1
+polybench_alloc_data,0,4
+xmalloc,1,4

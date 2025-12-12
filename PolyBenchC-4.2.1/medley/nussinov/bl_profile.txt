@@ -1,0 +1,17 @@
+function,path_id,count
+main,2,1
+init_array,0,6252499
+init_array,1,2501
+init_array,2,1
+kernel_nussinov,0,2597924996
+kernel_nussinov,2,3121251
+kernel_nussinov,3,1248
+kernel_nussinov,8,2499
+kernel_nussinov,18,1248
+kernel_nussinov,54,1558128
+kernel_nussinov,57,778752
+kernel_nussinov,72,778128
+kernel_nussinov,162,2500
+kernel_nussinov,163,1
+polybench_alloc_data,0,2
+xmalloc,1,2

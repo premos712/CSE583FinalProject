@@ -1,0 +1,11 @@
+function,path_id,count
+main,2,1
+init_array,0,2639999
+init_array,1,2400
+init_array,2,2
+kernel_syr2k,0,721319400
+kernel_syr2k,1,1201200
+kernel_syr2k,2,1200
+kernel_syr2k,4,1
+polybench_alloc_data,0,3
+xmalloc,1,3

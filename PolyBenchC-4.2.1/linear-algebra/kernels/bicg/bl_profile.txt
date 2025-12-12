@@ -1,0 +1,10 @@
+function,path_id,count
+main,2,1
+init_array,0,3991899
+init_array,1,2101
+init_array,2,1
+kernel_bicg,0,3991899
+kernel_bicg,1,2101
+kernel_bicg,2,1
+polybench_alloc_data,0,5
+xmalloc,1,5

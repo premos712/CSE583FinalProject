@@ -1,0 +1,11 @@
+function,path_id,count
+main,2,1
+init_array,0,1680000
+init_array,1,1400
+init_array,2,1
+kernel_covariance,0,1012199998
+kernel_covariance,1,723200
+kernel_covariance,2,1202
+kernel_covariance,3,1
+polybench_alloc_data,0,3
+xmalloc,1,3

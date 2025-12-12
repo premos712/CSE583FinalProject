@@ -1,0 +1,13 @@
+function,path_id,count
+main,2,1
+init_array,0,1728000
+init_array,1,14400
+init_array,2,120
+init_array,3,1
+kernel_heat_3d,0,1643031500
+kernel_heat_3d,1,13924000
+kernel_heat_3d,2,118000
+kernel_heat_3d,3,1000
+kernel_heat_3d,7,1
+polybench_alloc_data,0,2
+xmalloc,1,2
